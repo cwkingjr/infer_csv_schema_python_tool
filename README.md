@@ -1,4 +1,4 @@
-# Infer CSV Pantera Schema
+# Infer CSV Pandera Schema
 
 Quick little tool to run with uv to infer a csv schema with pandas and pandera. The output is a Pandera Inferred Schema.
 
